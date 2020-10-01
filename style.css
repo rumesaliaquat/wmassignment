@@ -1,0 +1,27 @@
+.jumbotron{
+    background-color: #f4511e;
+}
+h2{
+    text-transform: uppercase;
+    color: #303030;;
+}
+h4{
+    font-size: 25px;
+}
+p{
+    font-size: 15px;
+}
+button{
+    border-radius:6px;
+    background-color:white !important;
+    border-color:#ccc !important ;
+    color: black !important;
+}
+.fa-signal{ 
+    font-size: 200px !important;
+    color: #f4511e;
+}
+.fa-globe{
+    font-size: 200px !important;
+    color: #f4511e;
+}
